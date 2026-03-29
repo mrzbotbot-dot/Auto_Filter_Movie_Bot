@@ -37,19 +37,15 @@ Try the live bot here:
 
 ## 🙏 Special Thanks To
 
-- 🌴 [⌯ Ꭺɴᴏɴʏᴍᴏᴜꜱ | ×͜× |](https://t.me/BeingXAnonymous)
-- 🌴 [⌯ ᴢɪsʜᴀɴ | ×͜× |](https://t.me/IM_JISSHU)
-- 🌴 [⌯ ʙʜᴀʀᴀᴛʜ | ×͜× |](https://t.me/Bharath_boy)
-- 🌴 [Harshal Purohit Edits](https://github.com/HarshalPurohitEdits)
-- 🌴 [Support Group](https://t.me/Deendayal_Support_Group)
+[Support Channel](https://t.me/Metrix_Bot_Hub)
 
 ---
 
 ## 🛠 Need Help Deploying?
 
-Join our support group for assistance:
+Join our support Channel for assistance:
 
-[![Join Support Group](https://img.shields.io/badge/Join%20Support%20Group-Click%20Here-blue?style=flat&logo=telegram&labelColor=white)](https://t.me/Deendayal_Support_Group)
+[![Join Support Group](https://img.shields.io/badge/Join%20Support%20Group-Click%20Here-blue?style=flat&logo=telegram&labelColor=white)](https://t.me/Metrix_Bot_Hub)
 
 ---
 
@@ -92,7 +88,7 @@ Join our support group for assistance:
 - ✅ Auto Delete Old Files  
 - ✅ …and more!
 
-📌 *To stay updated with all new features, join our [Updates Channel](https://t.me/dreamxbotz).*
+📌 *To stay updated with all new features, join our [Updates Channel](https://t.me/Metrix_Bot_Hub).*
 
 ---
 
@@ -144,4 +140,4 @@ This project is licensed under the [MIT License](https://github.com/MrRaazz/Drea
 
 ---
 
-<p align="center"><b>Jai Shree Krishna 🙏😉</b></p>
+<p align="center"><b>Enjoy</b></p>
