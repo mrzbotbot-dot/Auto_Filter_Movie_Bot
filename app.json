@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/DreamXBotz/Auto_Filter_Bot.git",
-    "repository": "https://github.com/DreamXBotz/Auto_Filter_Bot.git",
+    "website": "https://github.com/BTM1453/Auto_Filter_Movie_Bot",
+    "repository": "https://github.com/BTM1453/Auto_Filter_Movie_Bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
