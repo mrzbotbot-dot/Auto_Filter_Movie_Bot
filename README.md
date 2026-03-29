@@ -38,6 +38,7 @@ Try the live bot here:
 ## 🙏 Special Thanks To
 
 [XΛVIΣЯ](https://t.me/XAVIER_Tgx)
+[туѕση](https://t.me/itsmeeTyson)
 
 ---
 
